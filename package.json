@@ -1,0 +1,25 @@
+{
+  "name": "piano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "bootstrap-material-design": "^0.5.10",
+    "co": "^4.6.0",
+    "co-body": "^4.2.0",
+    "co-views": "^2.1.0",
+    "ejs": "^2.5.2",
+    "koa": "^1.2.4",
+    "koa-body": "^1.6.0",
+    "koa-router": "^5.4.0",
+    "koa-static": "^2.0.0",
+    "midi": "^0.9.5",
+    "socket.io": "^1.5.1"
+  }
+}

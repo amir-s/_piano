@@ -1,0 +1,160 @@
+{
+    "notes": [
+        {
+            "key": 47,
+            "t": 0,
+            "f": 0,
+            "score": -1,
+            "active": true
+        },
+        {
+            "key": 48,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": true
+        },
+        {
+            "key": 45,
+            "t": 0,
+            "f": 0,
+            "score": -7,
+            "active": true
+        },
+        {
+            "key": 50,
+            "t": 0,
+            "f": 0,
+            "score": -1,
+            "active": true
+        },
+        {
+            "key": 43,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 52,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 53,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 41,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 40,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 55,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 38,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 57,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 36,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 59,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 35,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 60,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 33,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 62,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 31,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 64,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 29,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        },
+        {
+            "key": 28,
+            "t": 0,
+            "f": 0,
+            "score": 0,
+            "active": false
+        }
+    ],
+    "init": true,
+    "last": 1479696233873
+}

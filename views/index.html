@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html ng-app="app" lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Bootstrap 101 Template</title>
+
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="/dist/css/bootstrap-material-design.min.css" crossorigin="anonymous">
+		<link rel="stylesheet" href="/dist/css/ripples.min.css" crossorigin="anonymous">
+
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<style type="text/css">
+			.col-centered {
+				float: none;
+				margin: 0 auto;
+			}
+			.vcenter {
+				display: inline-block;
+				vertical-align: middle;
+				float: none;
+			}
+			.main {
+				height: 100%;
+				padding-top: 100px;
+			}
+			.b {
+				/*border: 2px red solid;*/
+			}
+			.note {
+
+			}
+		</style>
+	</head>
+	<body ng-controller="MainCtrl as vm">
+		
+		<div class="container main b">
+			<div class="col-lg-8 b col-centered text-center">
+				<note class="note b col-centered" keys="vm.vexNotes" /></note>
+				<br />
+				<h3>{{vm.text}}</h3>
+			</div>
+		</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="/dist/js/material.min.js" crossorigin="anonymous"></script>
+		<script src="/dist/js/ripples.min.js" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="https://unpkg.com/vexflow/releases/vexflow-min.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+		<script type="text/javascript" src="/main.js"></script>
+	</body>
+</html>
